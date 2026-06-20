@@ -1,5 +1,26 @@
-## Hi there 👋
+# Rohan <img src="https://www.rohand.in/static/photography/assets/images/navbar_logo.png" height=30px>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=6c09b952y7txp71wj4jb2iextq60mgvcwpju9lb9l8vf2843&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Obi-Wan saying Hello there" style="display: block; margin: 0 auto">
+</p>
+
+I'm an AI Developer at [JLL](https://www.jll.com/en-us/). I'm a tinkerer and problem-solver at heart, with a passion for building innovative things using deep learning, Generative AI, and scalable backend systems—basically anything that makes technology smarter and more efficient.
+
+Beyond coding, I'm always up for an adventure - whether it's hiking through new landscapes, chasing the darkest night skies, or exploring hidden food spots. 
+
+## Tech Stack
+<p>
+<img align="left" alt="Python" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img align="left" alt="pytorch" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg"/>
+<img align="left" alt="git" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Svelte" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="Svelte" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="Svelte" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+<img align="left" alt="vim" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"/>
+<img align="left" alt="vim" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img align="left" alt="vim" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<br/><br/>
+</p>
 <!--
 **TinnMoea/TinnMoea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
